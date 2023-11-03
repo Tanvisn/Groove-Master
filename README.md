@@ -1,4 +1,4 @@
-# Music - Project 1 
+# Groove Master
 
 Welcome to the first project! This project on the Music app by Sismics. The original repository can be found [here](https://github.com/sismics/music). 
 
